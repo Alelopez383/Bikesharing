@@ -22,7 +22,7 @@ It's important to understand our audience when creating a dashboard in order to 
 # NYC City Bike Dashboard
 
 ![image](https://user-images.githubusercontent.com/43974872/202788641-069ea09a-d0f4-4e87-b18d-75bfea3edeba.png)
-- Visit: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
+- Visit the Dashboard: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
 
 ### Key results
 1. **Gender Breakdown**:
@@ -50,6 +50,11 @@ First, we need to convert some columns to make more analysis.
 ### Trips by Weekday for Each Hour
 
 ![image](https://user-images.githubusercontent.com/43974872/202809395-260c205d-d154-4cff-a642-64acc869c0a2.png)
+
+### Trips by Gender (Weekday for Each Hour)
+
+![image](https://user-images.githubusercontent.com/43974872/202810270-353213e9-a4ae-4b09-b471-91776d7d1a47.png)
+
 
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
