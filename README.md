@@ -42,11 +42,12 @@ First, we need to convert some columns to make more analysis.
 
 ![image](https://user-images.githubusercontent.com/43974872/202803758-0640ccd6-b339-4380-8b74-11bd0c563cad.png)
 
-### Checkout Times by Gender Viz
+### Checkout Times by Gender 
 
-![image](https://user-images.githubusercontent.com/43974872/202804762-773177b0-f733-4b3a-ac69-598fa61f06f1.png)
+![image](https://user-images.githubusercontent.com/43974872/202805603-dfcdfc07-a9e4-4981-940f-b16603cc723d.png)
 
-### Trips by Weekday for Each Hour Viz
+
+### Trips by Weekday for Each Hour
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
 
