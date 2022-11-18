@@ -44,6 +44,9 @@ First, we need to convert some columns to make more analysis.
 
 ### Checkout Times by Gender Viz
 
+![image](https://user-images.githubusercontent.com/43974872/202804762-773177b0-f733-4b3a-ac69-598fa61f06f1.png)
+
+### Trips by Weekday for Each Hour Viz
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
 
