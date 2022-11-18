@@ -33,10 +33,16 @@ The customer profile tell us that 81% of the userstype are Subscribers, which te
 4. **Average trip duration**: The younger population tends to rent bicycles for longer trips; however, the general population, regardless of age, undertake trips of similar duration.
 5. **Top locations**: both the start point and end point of the bike rental are in downtown New York City; which tells us that they are mainly tourists visiting the main sightseeing, but there are also many local conmuters for bussiness districts or students.
 
-### Let´s go deeper with the information
+### Let´s go deeper 
 First, we need to convert some columns to make more analysis.
 
 ![image](https://user-images.githubusercontent.com/43974872/202795152-25325e9c-3700-45ac-aaa6-9ff364e3e319.png)
+
+### Checkout Times for Users
+
+![image](https://user-images.githubusercontent.com/43974872/202803758-0640ccd6-b339-4380-8b74-11bd0c563cad.png)
+
+### Checkout Times by Gender Viz
 
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
