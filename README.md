@@ -22,6 +22,7 @@ It's important to understand our audience when creating a dashboard in order to 
 # NYC City Bike Dashboard
 
 ![image](https://user-images.githubusercontent.com/43974872/202788641-069ea09a-d0f4-4e87-b18d-75bfea3edeba.png)
+https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
 
 ### Key results
 1. **Gender Breakdown**:
