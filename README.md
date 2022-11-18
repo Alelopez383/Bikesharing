@@ -24,11 +24,13 @@ It's important to understand our audience when creating a dashboard in order to 
 ![image](https://user-images.githubusercontent.com/43974872/202788641-069ea09a-d0f4-4e87-b18d-75bfea3edeba.png)
 
 ### Key results
-**Gender Breakdown**
+1. **Gender Breakdown**:
 The gender profiles tell us that 65% are male users.
-
-**Custormer Profile**
+2. **Custormer Profile**:
 The customer profile tell us that 81% of the userstype are Subscribers, which tells us that there is a continuous demand for the service, offering stable income to the new business.
+3. **Number of rides through August**: more than two million rides in one month (2,344,224 rides).
+4. **Average trip duration**: The younger population tends to rent bicycles for longer trips; however, the general population, regardless of age, undertake trips of similar duration.
+5. **Top locations**: both the start point and end point of the bike rental are in downtown New York City; which tells us that they are mainly tourists visiting the main sightseeing, but there are also many local conmuters for bussiness districts or students.
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
 
