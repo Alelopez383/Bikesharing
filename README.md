@@ -55,6 +55,9 @@ First, we need to convert some columns to make more analysis.
 
 ![image](https://user-images.githubusercontent.com/43974872/202810270-353213e9-a4ae-4b09-b471-91776d7d1a47.png)
 
+### UserTrips by Gender (Weekday)
+
+![image](https://user-images.githubusercontent.com/43974872/202816514-d09a2d58-1fa9-4040-9499-d16839906fca.png)
 
 
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
