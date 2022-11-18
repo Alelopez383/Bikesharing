@@ -49,6 +49,9 @@ First, we need to convert some columns to make more analysis.
 
 ### Trips by Weekday for Each Hour
 
+![image](https://user-images.githubusercontent.com/43974872/202809395-260c205d-d154-4cff-a642-64acc869c0a2.png)
+
+
 ### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
 
 - The city of Des Moines is the capital and the largest city of the state of Iowa. 
