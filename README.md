@@ -22,9 +22,10 @@ It's important to understand our audience when creating a dashboard in order to 
 # NYC City Bike Dashboard
 
 ![image](https://user-images.githubusercontent.com/43974872/202788641-069ea09a-d0f4-4e87-b18d-75bfea3edeba.png)
-- Visit the Dashboard: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
+- Visit the NY CitiBike Dashboard: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
+- Visit the NY CitiBike Analysis: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module14_Challenge_vf/NYCitiBikeAnalysis?publish=yes
 
-### Key results
+## Key results
 1. **Gender Breakdown**:
 The gender profiles tell us that 65% are male users.
 2. **Custormer Profile**:
@@ -32,6 +33,9 @@ The customer profile tell us that 81% of the userstype are Subscribers, which te
 3. **Number of rides through August**: more than two million rides in one month (2,344,224 rides).
 4. **Average trip duration**: The younger population tends to rent bicycles for longer trips; however, the general population, regardless of age, undertake trips of similar duration.
 5. **Top locations**: both the start point and end point of the bike rental are in downtown New York City; which tells us that they are mainly tourists visiting the main sightseeing, but there are also many local conmuters for bussiness districts or students.
+6. **Peak Hours**: In august the peak hours are goes from 8 to 9 am,and from 5 to 6 pm.
+
+![image](https://user-images.githubusercontent.com/43974872/202821002-d6410701-b36e-4c28-89ff-dc23c22d23f5.png)
 
 ### Let´s go deeper 
 First, we need to convert some columns to make more analysis.
@@ -39,28 +43,31 @@ First, we need to convert some columns to make more analysis.
 ![image](https://user-images.githubusercontent.com/43974872/202795152-25325e9c-3700-45ac-aaa6-9ff364e3e319.png)
 
 ### Checkout Times for Users
-
+- The graph tell us that the majority of the trips are under one hour duration.
 ![image](https://user-images.githubusercontent.com/43974872/202803758-0640ccd6-b339-4380-8b74-11bd0c563cad.png)
 
 ### Checkout Times by Gender 
+- Males riders are the ones that uses more the bike-sharing program.
 
 ![image](https://user-images.githubusercontent.com/43974872/202805603-dfcdfc07-a9e4-4981-940f-b16603cc723d.png)
 
-
 ### Trips by Weekday for Each Hour
+The heatmap tell us that the rides during office days, occur around 8 to 9 am , and in the afternoon, 5 to 6 pm. What tell us that the main clients are local commuters. Instead, weekends, the main hours are from 12 pm to 4 pm, mostrly tourists.
 
 ![image](https://user-images.githubusercontent.com/43974872/202809395-260c205d-d154-4cff-a642-64acc869c0a2.png)
 
 ### Trips by Gender (Weekday for Each Hour)
-
+- Males rides uuse bike-sharing programm to go to the office, and female riders, they use it, mostrly on sundays, for pleasure.
+- 
 ![image](https://user-images.githubusercontent.com/43974872/202810270-353213e9-a4ae-4b09-b471-91776d7d1a47.png)
 
 ### UserTrips by Gender (Weekday)
-
+- Males are the most users of bike sharing and suscribers. Also, suscribers use their suscription mostly on thursday and friday.
+- 
 ![image](https://user-images.githubusercontent.com/43974872/202816514-d09a2d58-1fa9-4040-9499-d16839906fca.png)
 
 
-### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa
+### Before getting any conclusion, fisrt let look some facts from Des Moines, Iowa, that could be good reasons to open a bike-sharing bussiness:
 
 - The city of Des Moines is the capital and the largest city of the state of Iowa. 
 - The city is the center of a metropolitan area that include Polk, Dallas, Warren, Madison, and Guthrie counties, **ranking 91st among U.S. metropolitan areas**.
