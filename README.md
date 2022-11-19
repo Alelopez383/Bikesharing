@@ -22,8 +22,6 @@ It's important to understand our audience when creating a dashboard in order to 
 # NYC City Bike Dashboard
 
 ![image](https://user-images.githubusercontent.com/43974872/202788641-069ea09a-d0f4-4e87-b18d-75bfea3edeba.png)
-- Visit the NY CitiBike Dashboard: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
-- Visit the NY CitiBike Analysis: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module14_Challenge_vf/NYCitiBikeAnalysis?publish=yes
 
 ## Key results
 1. **Gender Breakdown**:
@@ -79,4 +77,8 @@ Males are the most users of bike sharing and suscribers. Also, suscribers use th
 # Summary
 With the previous results, we know that the user profile is subscribers, men, who use it on a daily basis to travel from their homes (bus station/metro station) to their offices and vice versa. So the City of Des Moines has a good chance of moving the profile to their area, since the Des Moines metro area is loaded with offices.
 
-On the other hand, thanks to the weather in summer and the different tourist sites that the city has, the idea of ​​renting bicycles to get around is very feasible.
+On the other hand, thanks to the weather in summer and the different tourist sites that the city has, the idea for a bike-sharing company to get around is very feasible.
+
+# You can check the results at:
+- Visit the NY CitiBike Dashboard: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module_14_practice/NYCCitiBike?publish=yes 
+- Visit the NY CitiBike Analysis: https://public.tableau.com/app/profile/alejandra.lopez5322/viz/Module14_Challenge_vf/NYCitiBikeAnalysis?publish=yes
