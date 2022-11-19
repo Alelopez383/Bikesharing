@@ -43,11 +43,11 @@ First, we need to convert some columns to make more analysis.
 ![image](https://user-images.githubusercontent.com/43974872/202795152-25325e9c-3700-45ac-aaa6-9ff364e3e319.png)
 
 ### Checkout Times for Users
-- The graph tell us that the majority of the trips are under one hour duration.
+The graph tell us that the majority of the trips are under one hour duration.
 ![image](https://user-images.githubusercontent.com/43974872/202803758-0640ccd6-b339-4380-8b74-11bd0c563cad.png)
 
 ### Checkout Times by Gender 
-- Males riders are the ones that uses more the bike-sharing program.
+Males riders are the ones that uses more the bike-sharing program.
 
 ![image](https://user-images.githubusercontent.com/43974872/202805603-dfcdfc07-a9e4-4981-940f-b16603cc723d.png)
 
@@ -57,13 +57,13 @@ The heatmap tell us that the rides during office days, occur around 8 to 9 am , 
 ![image](https://user-images.githubusercontent.com/43974872/202809395-260c205d-d154-4cff-a642-64acc869c0a2.png)
 
 ### Trips by Gender (Weekday for Each Hour)
-- Males rides uuse bike-sharing programm to go to the office, and female riders, they use it, mostrly on sundays, for pleasure.
-- 
+Males rides uuse bike-sharing programm to go to the office, and female riders, they use it, mostrly on sundays, for pleasure.
+
 ![image](https://user-images.githubusercontent.com/43974872/202810270-353213e9-a4ae-4b09-b471-91776d7d1a47.png)
 
 ### UserTrips by Gender (Weekday)
-- Males are the most users of bike sharing and suscribers. Also, suscribers use their suscription mostly on thursday and friday.
-- 
+Males are the most users of bike sharing and suscribers. Also, suscribers use their suscription mostly on thursday and friday.
+
 ![image](https://user-images.githubusercontent.com/43974872/202816514-d09a2d58-1fa9-4040-9499-d16839906fca.png)
 
 
@@ -75,3 +75,8 @@ The heatmap tell us that the rides during office days, occur around 8 to 9 am , 
 - Des Moines is a large center for insurance companies and also has a sizable base of financial services and publishing businesses. 
 - Forbes Magazine ranked Des Moines first on its list of Best Places for Business in 2010.
 - The estimated 2021 population was 212,031 in Des Moines; although the metropolitan area has 562,906 persons.
+
+# Summary
+With the previous results, we know that the user profile is subscribers, men, who use it on a daily basis to travel from their homes (bus station/metro station) to their offices and vice versa. So the City of Des Moines has a good chance of moving the profile to their area, since the Des Moines metro area is loaded with offices.
+
+On the other hand, thanks to the weather in summer and the different tourist sites that the city has, the idea of ​​renting bicycles to get around is very feasible.
